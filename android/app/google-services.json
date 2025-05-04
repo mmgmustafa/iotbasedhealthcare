@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "12021741522",
+    "firebase_url": "https://iot-based-healthcare-sys-e8194-default-rtdb.firebaseio.com",
+    "project_id": "iot-based-healthcare-sys-e8194",
+    "storage_bucket": "iot-based-healthcare-sys-e8194.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12021741522:android:c0f75fc118f7e2ddea3a0b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_5"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIU4ZKLobhVpdcNJnJpj0vnjw24x4HMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12021741522:android:95c992af32269b9fea3a0b",
+        "android_client_info": {
+          "package_name": "com.example.iotbasedhealthcaresystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtIU4ZKLobhVpdcNJnJpj0vnjw24x4HMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
